@@ -1,0 +1,19 @@
+#myName {
+    text-align: center;
+}
+
+#myImage {
+    
+    background-color: blue;
+}
+
+img {
+    
+    background-color: blue;
+    width: 250px;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+  }
